@@ -23,4 +23,4 @@ a0d8af6eab48   fujikomalan/ipstack:v1   "python3 app.py"         4 minutes ago  
 Using a self signed certificate
 https://www.sslshopper.com/ssl-checker.html#hostname=redcache.noelvincent.tech
 
-https:redcache.noelvincent.tech/ip
+https://redcache.noelvincent.tech/ip
