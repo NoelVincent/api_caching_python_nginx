@@ -31,4 +31,4 @@ Here, it is designed with an nginx proxy loadbalancer and a Redis cache containe
 Using ipstack API in this python application as a demo. This API will show you the Geolocation of IP addresses.
 
 # Architecture
-![](https://i.ibb.co/hdsKwS8/1.jpg)
+![](https://i.ibb.co/VYp8s1H/1.jpg)
