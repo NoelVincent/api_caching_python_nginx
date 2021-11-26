@@ -27,7 +27,7 @@ services:
     restart: always
     environment:
       - CACHING_SERVER=172.31.45.75
-      - IPSTACK_KEY=e895bebf378cdbd7c7754cff77a9cdd2
+      - IPSTACK_KEY=e895****************************  ### ==> Your ipstack API KEY
     networks:
       - api-cache
 
@@ -37,7 +37,7 @@ services:
     restart: always
     environment:
       - CACHING_SERVER=172.31.45.75
-      - IPSTACK_KEY=e895bebf378cdbd7c7754cff77a9cdd2
+      - IPSTACK_KEY=e895****************************  ### ==> Your ipstack API KEY
     networks:
       - api-cache
 
@@ -47,7 +47,7 @@ services:
     restart: always
     environment:
       - CACHING_SERVER=172.31.45.75
-      - IPSTACK_KEY=e895bebf378cdbd7c7754cff77a9cdd2
+      - IPSTACK_KEY=e895****************************  ### ==> Your ipstack API KEY
     networks:
       - api-cache
 
