@@ -24,3 +24,12 @@ Using a self signed certificate
 https://www.sslshopper.com/ssl-checker.html#hostname=redcache.noelvincent.tech
 
 https://redcache.noelvincent.tech/ip
+
+
+# Dockerizing - API caching - python application with nginx Loadbalancing
+Here, it is designed with an nginx proxy loadbalancer and a Redis cache container for api caching. All the communications between the containers are through a bridge network inside the host server.
+
+Using ipstack API in this python application as a demo. This API will show you the Geolocation of IP addresses.
+
+# Architecture
+![](https://i.ibb.co/VYp8s1H/1.jpg)
